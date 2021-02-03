@@ -34,5 +34,6 @@ module.exports = {
 		"https://svenskfotboll.se/",
 		"https://svenskfotboll.se/livescore",
     "https://more10.com",
+"https://www.botkyrka.se",
 	]
 };
