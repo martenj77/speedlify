@@ -31,9 +31,9 @@ module.exports = {
 		//"https://www.netlify.com/",
 		//"https://jamstackconf.com/",
 		// "https://jamstackconf.com/virtual/", // redirect was breaking a thing
-		"https://svenskfotboll.se/",
-		"https://svenskfotboll.se/livescore",
-    "https://more10.eu",
+		"https://www.svenskfotboll.se/",
+		"https://www.svenskfotboll.se/livescore",
+    "https://www.more10.eu",
 "https://www.botkyrka.se",
 	]
 };
