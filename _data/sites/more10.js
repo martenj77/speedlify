@@ -33,7 +33,7 @@ module.exports = {
 		// "https://jamstackconf.com/virtual/", // redirect was breaking a thing
 		"https://svenskfotboll.se/",
 		"https://svenskfotboll.se/livescore",
-    "https://more10.com",
+    "https://more10.eu",
 "https://www.botkyrka.se",
 	]
 };
