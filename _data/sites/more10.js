@@ -14,8 +14,7 @@ module.exports = {
 	urls: [
 		"https://www.svenskfotboll.se/",
 		"https://www.svenskfotboll.se/livescore",
-		"https://www.botkyrka.se",
-		"https://w2.more10.eu",
+		"https://www.more10.eu",
 		
 	]
 };
