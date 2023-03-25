@@ -14,6 +14,8 @@ module.exports = {
 	urls: [
 		"https://www.svenskfotboll.se/",
 		"https://www.svenskfotboll.se/livescore",
+"https://fogis.svenskfotboll.se/fogisklient",
+"https://auth.fogis.se",
 		"https://www.more10.eu",
 		
 	]
