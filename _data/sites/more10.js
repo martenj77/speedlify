@@ -12,11 +12,11 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://www.svenskfotboll.se/",
+		"https://www.svenskfotboll.se",
 		"https://www.svenskfotboll.se/livescore",
-"https://fogis.svenskfotboll.se/fogisklient",
-"https://auth.fogis.se",
-		"https://www.more10.eu",
+"https://svff-motionsfotboll-dev.azurewebsites.net",
+"https://svff-motionsfotboll-prod.azurewebsites.net",
+		"https://www.more10.eu"
 		
 	]
 };
